@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_cf95f4ebdf964cafd0c50169dbcd744bd9ec69cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_41c26b606b3fc1a34343c2e9b56eeaa4e8713b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_bc34624389efcf0175aff1daff9a9af6c465334c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_56f8ad305bc733e7e3ca62ad94fa6b65a5236038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_55cc542f221f822a8becb1814ee74995c078f227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.0.2_3f0402f5c4f6976a618d4bbaff2c366a89d999bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kouding\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\core-3.2.0_21eac338ab41db0f100695268cf2e24b92ebebbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_70383876468bc175edf6ad75c803ed6816b8f1d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_460271f630ea247e18982a079c518f45830b97ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_86790f042350ab0a04a047380e8ee2194f62cbdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0fe55d9e14f05a280c6d0e4eb52c0bf73df4e51d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_5e08dae69568569380510875f88bb97102640e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_5dddb5a11f86caf5aaaa6131c061b70fd0de11a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_2220b3d1a7539a1732a2b1b25619e50a68ff7696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_2bee6b07d92a14fc082781e249390812a3f03d67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_312c97bebcb40556254b28f5204494ea8f3f15eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_1bbff6f25da3bd47a6af995714cce2a9ee3ca2af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_033e7af60696f78b7b7f79144115deedc908971c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_6771847715b7c11a6b5a734c640c8c18b5f4babc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_5b27ac11873f2f9b8d2543cbd8a5b5b0796d48a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_9adcc284543ee22f7f5ff7f023e9421912c6a4df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7525d632fa1b45d7229d7309a829a75914e84d4d">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_07b4f3d41b96f7f3ff872acf070e98d18837d5a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_33096448025a40e507a50a94e823826d13952d5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_44cff263f6a0b58ecb9d20ee97c870d69ce6f236.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_8e032eca2acd776bef9d6a286146e8b40b7c8d28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_96e2533eb822bff7ffe3185c427ec7362642a132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_b92e462f7730713b15ac7077a89477f489dde13e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2273090fceb20b8a9f9f9c3e05f2352db646bf97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_4f6efd2aca1e5c08e350a5286295f4924e5a1e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db0c6c15074db119f491529cef12c5df5ffc1bc1">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c59480699a6eace93609a3f4e7bf98bb88a2cf74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_098d42c25a65021673db08dcfed499342c99b88a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_3d5783aad3172b0cae93d176e11f4c1206a4e59e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="28248051b09e3fdec07dcc87462d1511776ad321">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log\app\build\intermediates\pre-dexed\debug\instant-run_e71ee0d1f1f93c95ea56f34103fe7007f4b365ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="476a34bc4e985f854006e41fe26965f87915f258">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\instant-run_562e191f1223729d8e99cb8c308b3391ff3f5425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\2016AndroidLearning\Class_practiceone_Log 116\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_93b90f70bf73902ea09319e34c8c77b32588aa69.jar" />
+    </item>
+
+</items>
